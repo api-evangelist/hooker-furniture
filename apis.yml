@@ -22,7 +22,7 @@ description: >-
   Hooker Furniture is a major US corporation and Fortune 1000 company. The Hooker Furniture API provides programmatic access to its platform services, data, and integrations for enterprise customers and partners.
 created: '2026-04-19'
 modified: '2026-04-19'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
   - aid: hooker-furniture:hooker-furniture-api
     name: Hooker Furniture API
