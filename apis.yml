@@ -50,6 +50,12 @@ apis:
     description: >-
       The Hooker Furniture API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: Plans
+    url: plans/hooker-furniture-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/hooker-furniture-rate-limits.yml
+  - type: FinOps
+    url: finops/hooker-furniture-finops.yml
   - url: https://hookerfurnishings.com/blog/
     type: Blog
   - type: DomainSecurity
